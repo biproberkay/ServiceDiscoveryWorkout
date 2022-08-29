@@ -6,6 +6,12 @@ I created this repository to save my progress about understanding Service Discov
 - Service Discovery –> A guide to find the route of communication between microservices.[¹][1]
 ## Keywords
 Eureka, Service Registry, API Gateway, Clients, Identity Providers
+## Samples
+[Sample 1](Samples/yildiz.md): in this sample. there is 3 csprojects communicates eachother. AService, BService, CService. this is a basic example with Netflix Eureka. 2 of them i,s API and one for console project. 
+
+<!-- TODO: Commit -->
+<!-- TODO: research new example -->
+
 ## Notes
 `builder.Services.AddDiscoveryClient(builder.Configuration);`
 
@@ -33,6 +39,7 @@ appsettingsjson
   }
   
   ```
+
 ## Refrences
 - [gencay yıldız blog](https://www.gencayyildiz.com/blog/netflix-eureka-server-ile-service-discovery/)
 
