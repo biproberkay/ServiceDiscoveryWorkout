@@ -8,7 +8,7 @@ I created this repository to save my progress about understanding Service Discov
 ## Keywords
 Eureka, Service Registry, API Gateway, Clients, Identity Providers, Consul, Ocelot[¹][1],OpenId
 ## Samples
-### [Sample 1](Samples/yildiz.md) 
+### [Sample 1](Samples/Eureka-Service-Discovery-Example-master/README.md) 
 in this sample. there is 3 csprojects communicates eachother. AService, BService, CService. this is a basic example with Netflix Eureka. 2 of them i,s API and one for console project. 
 
 <!-- TODO: Commit -->
