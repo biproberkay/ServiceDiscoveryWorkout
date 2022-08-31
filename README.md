@@ -8,12 +8,12 @@ I created this repository to save my progress about understanding Service Discov
 ## Keywords
 Eureka, Service Registry, API Gateway, Clients, Identity Providers, Consul, Ocelot[¹][1],OpenId
 ## Samples
-### [Sample 1](Samples/Eureka-Service-Discovery-Example-master/README.md) 
+### [Sample 1](Samples/Eureka-Service-Discovery-Example-master/) 
 in this sample. there is 3 csprojects communicates eachother. AService, BService, CService. this is a basic example with Netflix Eureka. 2 of them i,s API and one for console project. 
 
 <!-- TODO: Commit -->
 <!-- TODO: research new example -->
-### [Sample 2](Samples/Ocelot.Gateway.Eureka.ServiceDiscovery.Demo-main/README.md)
+### [Sample 2](Samples/Ocelot.Gateway.Eureka.ServiceDiscovery.Demo-main/)
 Service discovery with eureka is used via an api gateway with ocelot. 
 <!-- I need an example whic implements also authentication with api gateway and service discovery -->
 
